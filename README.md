@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there!! I'm Raquel Modesto ~(=^‥^)ノ
+## Hi there!! I'm Raquel Modesto
   <div>
    <a href="https://github.com/rvmodesto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvmodesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
